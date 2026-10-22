@@ -1,0 +1,22 @@
+FTU,Organ,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID,Type
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-13,left ventricle,UBERON:0002084,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-12,aorta,UBERON:0000947,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-11,ascending aorta,UBERON:0001496,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-10,aortic arch,UBERON:0001508,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-9,descending aorta,UBERON:0001514,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-8,descending thoracic aorta,UBERON:0002345,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-7,abdominal aorta,UBERON:0001516,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-6,common iliac artery,UBERON:0001191,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-5,internal iliac artery,UBERON:0001309,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-4,anterior division of internal iliac artery,FMA:69797,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-3,inferior vesical artery,UBERON:0001311,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-2,prostatic artery,FMA:20966,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,-1,prostatic arteriole,,Artery
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,0,prostatic capillary,FMA:280966,FTU
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,1,prostatic venule,UBERON:8600084,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,2,prostatic venous plexus,UBERON:0009042,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,3,inferior vesical vein,UBERON:0001318,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,4,internal iliac vein,UBERON:0001317,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,5,common iliac vein,UBERON:0001139,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,6,inferior vena cava,UBERON:0001072,Vein
+prostate glandular acinus,prostate,UBERON:0004179,prostatic capillary,FMA:280966,7,right atrium,UBERON:0002078,Vein

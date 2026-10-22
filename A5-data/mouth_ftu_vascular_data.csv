@@ -1,0 +1,53 @@
+FTU,Organ,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID,Type
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-8,left ventricle,UBERON:0002084,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-7,aorta,UBERON:0000947,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-6,ascending aorta,UBERON:0001496,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-5,aortic arch,UBERON:0001508,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-4,common carotid artery,UBERON:0001530,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-3,external carotid artery,UBERON:0001070,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-2,superficial temporal artery,UBERON:0001614,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,-1,superior parotid gland arteriole,,Artery
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,0,superior parotid gland capillary,,FTU
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,1,superior parotid gland venule,,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,2,retromandibular vein,UBERON:0001656,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,3,anterior branch of retromandibular vein,,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,4,common facial vein,,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,5,internal jugular vein,UBERON:0001586,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,6,brachiocephalic vein,UBERON:0003711,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,7,superior vena cava,UBERON:0001585,Vein
+parotid gland ducto-acinar unit,mouth,UBERON:8000011,superior parotid gland capillary,,8,right atrium,UBERON:0002078,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-9,left ventricle,UBERON:0002084,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-8,aorta,UBERON:0000947,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-7,ascending aorta,UBERON:0001496,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-6,aortic arch,UBERON:0001508,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-5,common carotid artery,UBERON:0001530,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-4,external carotid artery,UBERON:0001070,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-3,lingual artery,UBERON:0001610,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-2,sublingual artery,UBERON:0001611,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,-1,sublingual gland arteriole,,Artery
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,0,sublingual gland capillary,,FTU
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,1,sublingual gland venule,,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,2,sublingual vein,UBERON:8600071,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,3,lingual vein,UBERON:0006634,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,4,internal jugular vein,UBERON:0001586,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,5,brachiocephalic vein,UBERON:0003711,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,6,superior vena cava,UBERON:0001585,Vein
+sublingual gland ducto-acinar unit,mouth,UBERON:8000012,sublingual gland capillary,,7,right atrium,UBERON:0002078,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-9,left ventricle,UBERON:0002084,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-8,aorta,UBERON:0000947,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-7,ascending aorta,UBERON:0001496,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-6,aortic arch,UBERON:0001508,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-5,common carotid artery,UBERON:0001530,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-4,external carotid artery,UBERON:0001070,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-3,facial artery,UBERON:0001612,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-2,glandular branches of facial artery,FMA:71675,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,-1,submandibular gland arteriole,,Artery
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,0,submandibular gland capillary,,FTU
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,1,submandibular gland venule,,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,2,concomitant Wharton doct vein,,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,3,sublingual vein,UBERON:8600071,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,4,lingual vein,UBERON:0006634,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,5,internal jugular vein,UBERON:0001586,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,6,brachiocephalic vein,UBERON:0003711,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,7,superior vena cava,UBERON:0001585,Vein
+submandibular gland ducto-acinar unit,mouth,UBERON:8000013,submandibular gland capillary,,8,right atrium,UBERON:0002078,Vein

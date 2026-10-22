@@ -1,0 +1,35 @@
+FTU,Organ,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID,Type
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-16,left ventricle,UBERON:0002084,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-15,aorta,UBERON:0000947,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-14,ascending aorta,UBERON:0001496,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-13,aortic arch,UBERON:0001508,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-12,descending aorta,UBERON:0001514,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-11,descending thoracic aorta,UBERON:0002345,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-10,abdominal aorta,UBERON:0001516,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-9,inferior mesenteric artery,UBERON:0001183,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-8,left colic artery,UBERON:8410022,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-7,ascending branch of left colic artery,FMA:14828,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-6,marginal artery of Drummond,FMA:14824,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-5,vasa recta of colon,,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-4,long branch of vasa recta of colon,,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-3,submucosal artery of colon,,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-2,submucosal arteriole of colon,,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,-1,mucosal arteriole of colon,,Artery
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,0,branch of mucous plexus of colon,,FTU
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,1,mucosal venule of colon,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,2,submucosal venule of colon,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,3,submucosal vein of colon,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,4,vena recta of large intestine,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,5,ileocolic vein,UBERON:0001219,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,6,superior mesenteric vein,UBERON:0001138,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,7,hepatic portal vein,UBERON:0001639,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,8,left hepatic portal vein,FMA:15415,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,9,left lateral hepatic portal vein,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,10,lateral inferior segmental hepatic portal vein,FMA:15432,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,11,hepatic portal venule,UBERON:8600085,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,12,hepatic sinusoid,UBERON:0001281,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,13,central vein of liver,UBERON:0006841,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,14,segmental hepatic vein,,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,15,left hepatic vein,UBERON:0011955,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,16,inferior vena cava,UBERON:0001072,Vein
+crypt of Lieberkuhn,l_intestine,UBERON:0001983,branch of mucous plexus of colon,,17,right atrium,UBERON:0002078,Vein

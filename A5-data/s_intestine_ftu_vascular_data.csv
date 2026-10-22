@@ -1,0 +1,28 @@
+FTU,Organ,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID,Type
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-12,left ventricle,UBERON:0002084,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-11,aorta,UBERON:0000947,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-10,ascending aorta,UBERON:0001496,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-9,aortic arch,UBERON:0001508,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-8,descending aorta,UBERON:0001514,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-7,descending thoracic aorta,UBERON:0002345,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-6,abdominal aorta,UBERON:0001516,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-5,superior mesenteric artery,UBERON:0001182,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-4,jejunal branches,UBERON:0018255,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-3,jejunal arcade,,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-2,vasa recta of jejunum,,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,-1,mucous plexus of small intestine,FMA:264945,Artery
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,0,branch of mucous plexus of small intestine,,FTU
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,1,mucous plexus of small intestine,FMA:264945,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,2,jejunal vein,UBERON:0001216,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,3,superior mesenteric vein,UBERON:0001138,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,4,hepatic portal vein,UBERON:0001639,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,5,left hepatic portal vein,FMA:15415,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,6,left lateral hepatic portal vein,,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,7,lateral inferior segmental hepatic portal vein,FMA:15432,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,8,hepatic portal venule,UBERON:8600085,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,9,hepatic sinusoid,UBERON:0001281,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,10,central vein of liver,UBERON:0006841,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,11,segmental hepatic vein,,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,12,left hepatic vein,UBERON:0011955,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,13,inferior vena cava,UBERON:0001072,Vein
+intestinal villus,s_intestine,UBERON:0001213,branch of mucous plexus of small intestine,,14,right atrium,UBERON:0002078,Vein

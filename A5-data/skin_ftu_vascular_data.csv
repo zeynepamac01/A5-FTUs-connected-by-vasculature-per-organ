@@ -1,0 +1,79 @@
+FTU,Organ,FTUID,Vessel,VesselID,PathStep,PathVessel,PathVesselID,Type
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-13,left ventricle,UBERON:0002084,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-12,aorta,UBERON:0000947,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-11,ascending aorta,UBERON:0001496,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-10,aortic arch,UBERON:0001508,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-9,subclavian artery,UBERON:0001533,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-8,axillary artery,UBERON:0001394,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-7,brachial artery,UBERON:0001398,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-6,ulnar artery,UBERON:0001406,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-5,superficial palmar arch,UBERON:0006564,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-4,medial proper palmar digital artery of fifth digit of hand,FMA:85108,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-3,cutaneous branch of medial proper palmar digital artery of fifth digit of hand,,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-2,cutaneous arteriole,,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,-1,subpapillary plexus,FMA:280962,Artery
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,0,branch of subpapillary plexus,,FTU
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,1,subpapillary plexus,FMA:280962,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,2,cutaneous venule,,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,3,cutaneous branch of medial proper palmar digital vein of fifth digit of hand,,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,4,medial proper palmar digital vein of fifth digit of hand,,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,5,superficial palmar venous arch,FMA:22914,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,6,ulnar vein,UBERON:8600093,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,7,brachial vein,UBERON:0001413,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,8,axillary vein,UBERON:0000985,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,9,subclavian vein,UBERON:0001587,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,10,brachiocephalic vein,UBERON:0003711,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,11,superior vena cava,UBERON:0001585,Vein
+dermal papilla,skin,UBERON:0000412,branch of subpapillary plexus,,12,right atrium,UBERON:0002078,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-13,left ventricle,UBERON:0002084,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-12,aorta,UBERON:0000947,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-11,ascending aorta,UBERON:0001496,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-10,aortic arch,UBERON:0001508,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-9,subclavian artery,UBERON:0001533,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-8,axillary artery,UBERON:0001394,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-7,brachial artery,UBERON:0001398,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-6,ulnar artery,UBERON:0001406,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-5,superficial palmar arch,UBERON:0006564,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-4,medial proper palmar digital artery of fifth digit of hand,FMA:85108,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-3,cutaneous branch of medial proper palmar digital artery of fifth digit of hand,,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-2,cutaneous arteriole,,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,-1,subpapillary plexus,FMA:280962,Artery
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,0,branch of subpapillary plexus,,FTU
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,1,subpapillary plexus,FMA:280962,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,2,cutaneous venule,,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,3,cutaneous branch of medial proper palmar digital vein of fifth digit of hand,,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,4,medial proper palmar digital vein of fifth digit of hand,,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,5,superficial palmar venous arch,FMA:22914,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,6,ulnar vein,UBERON:8600093,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,7,brachial vein,UBERON:0001413,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,8,axillary vein,UBERON:0000985,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,9,subclavian vein,UBERON:0001587,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,10,brachiocephalic vein,UBERON:0003711,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,11,superior vena cava,UBERON:0001585,Vein
+epidermal ridge of digit,skin,UBERON:0013487,branch of subpapillary plexus,,12,right atrium,UBERON:0002078,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-13,left ventricle,UBERON:0002084,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-12,aorta,UBERON:0000947,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-11,ascending aorta,UBERON:0001496,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-10,aortic arch,UBERON:0001508,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-9,subclavian artery,UBERON:0001533,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-8,axillary artery,UBERON:0001394,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-7,brachial artery,UBERON:0001398,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-6,ulnar artery,UBERON:0001406,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-5,superficial palmar arch,UBERON:0006564,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-4,medial proper palmar digital artery of fifth digit of hand,FMA:85108,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-3,cutaneous branch of medial proper palmar digital artery of fifth digit of hand,,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-2,cutaneous arteriole,,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,-1,deep cutaneous plexus,,Artery
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,0,branch of deep cutaneous plexus,,FTU
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,1,deep cutaneous plexus,,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,2,cutaneous venule,,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,3,cutaneous branch of medial proper palmar digital vein of fifth digit of hand,,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,4,medial proper palmar digital vein of fifth digit of hand,,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,5,superficial palmar venous arch,FMA:22914,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,6,ulnar vein,UBERON:8600093,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,7,brachial vein,UBERON:0001413,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,8,axillary vein,UBERON:0000985,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,9,subclavian vein,UBERON:0001587,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,10,brachiocephalic vein,UBERON:0003711,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,11,superior vena cava,UBERON:0001585,Vein
+hair follicle,skin,UBERON:0002073,branch of deep cutaneous plexus,,12,right atrium,UBERON:0002078,Vein
